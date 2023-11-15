@@ -1,0 +1,2 @@
+# GlobalMedia-ClashRule
+GlobalMedia-ClashRule
