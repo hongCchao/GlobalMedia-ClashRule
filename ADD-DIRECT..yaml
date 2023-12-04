@@ -1,10 +1,11 @@
 # 机场域名
-DOMAIN-SUFFIX,bygcloud.com
-DOMAIN-SUFFIX,suyunti1.com
-DOMAIN-SUFFIX,ssrbox.com
-DOMAIN-SUFFIX,xsus.wiki
-DOMAIN-SUFFIX,getbitzapp.com
-DOMAIN-SUFFIX,v2tun.us
-DOMAIN-SUFFIX,.v2ny.co
-DOMAIN-SUFFIX,naiunny.store
-DOMAIN-SUFFIX,fonete.com
+payload:
+  - DOMAIN-SUFFIX,bygcloud.com
+  - DOMAIN-SUFFIX,suyunti1.com
+  - DOMAIN-SUFFIX,ssrbox.com
+  - DOMAIN-SUFFIX,xsus.wiki
+  - DOMAIN-SUFFIX,getbitzapp.com
+  - DOMAIN-SUFFIX,v2tun.us
+  - DOMAIN-SUFFIX,.v2ny.co
+  - DOMAIN-SUFFIX,naiunny.store
+  - DOMAIN-SUFFIX,fonete.com
