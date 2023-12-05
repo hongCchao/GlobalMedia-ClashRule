@@ -1,4 +1,4 @@
-# 机场域名
+# MyList
 payload:
   - DOMAIN-SUFFIX,bygcloud.com
   - DOMAIN-SUFFIX,suyunti1.com
@@ -9,3 +9,6 @@ payload:
   - DOMAIN-SUFFIX,.v2ny.co
   - DOMAIN-SUFFIX,naiunny.store
   - DOMAIN-SUFFIX,fonete.com
+  - DOMAIN-SUFFIX,nf.video
+  - DOMAIN-SUFFIX,dler.io
+  - DOMAIN-SUFFIX,id9.cc
