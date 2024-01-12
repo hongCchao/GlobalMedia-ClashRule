@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,okx-dns.com
   - DOMAIN-SUFFIX,okex.com
-  - DOMAIN,okex
+  - DOMAIN,okx
   - DOMAIN-SUFFIX,oklink.com
   - DOMAIN-KEYWORD,wspri.okx.com.cdn.cloudflare.net
 # openwrt
