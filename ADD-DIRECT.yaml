@@ -1,7 +1,6 @@
 # ADD-DIRECT
 payload:
   - DOMAIN,nf.video
-  - DOMAIN,speech.platform.bing.com
   - DOMAIN-SUFFIX,shangui.cc
   - DOMAIN-SUFFIX,112114.xyz
   - DOMAIN-SUFFIX,kwimgs.com
