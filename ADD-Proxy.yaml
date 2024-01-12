@@ -1,21 +1,10 @@
 # MyList
 payload:
-# 机场
-  - DOMAIN-SUFFIX,bygcloud.com
-  - DOMAIN-SUFFIX,ssrdog111.com
-  - DOMAIN-SUFFIX,v2ny.co
-  - DOMAIN-SUFFIX,naiunny.store
-  - DOMAIN-SUFFIX,subcloud.xyz
 # emotn store
   - DOMAIN-SUFFIX,weesunday.com
   - DOMAIN-SUFFIX,keeflys.com
   - DOMAIN-SUFFIX,flurry.com
  # 欧易
-  - DOMAIN-SUFFIX,okx.com
-  - DOMAIN-SUFFIX,okx-dns.com
-  - DOMAIN-SUFFIX,okex.com
   - DOMAIN,okx
-  - DOMAIN-SUFFIX,oklink.com
-  - DOMAIN-KEYWORD,wspri.okx.com.cdn.cloudflare.net
 # openwrt
   - DOMAIN-SUFFIX,openwrt.org
