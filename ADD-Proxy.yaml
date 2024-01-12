@@ -12,7 +12,10 @@ payload:
   - DOMAIN-SUFFIX,flurry.com
  # 欧易
   - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,okx-dns.com
   - DOMAIN-SUFFIX,okex.com
+  - DOMAIN,okex.wspri.okx.com.cdn.cloudflare.net
+  - DOMAIN,okex
   - DOMAIN-SUFFIX,oklink.com
 # openwrt
   - DOMAIN-SUFFIX,openwrt.org
