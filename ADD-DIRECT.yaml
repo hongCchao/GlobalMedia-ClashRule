@@ -1,3 +1,6 @@
 # ADD-DIRECT
 payload:
   - DOMAIN,nf.video
+  - DOMAIN,speech
+  - DOMAIN,okx
+  - DOMAIN,okex
