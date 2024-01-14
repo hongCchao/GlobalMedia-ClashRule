@@ -1,10 +1,5 @@
 # MyList
 payload:
-# emotn store
-  - DOMAIN-SUFFIX,weesunday.com
-  - DOMAIN-SUFFIX,keeflys.com
-  - DOMAIN-SUFFIX,flurry.com
- # 欧易
+# 欧易
   - DOMAIN,okx
-# openwrt
-  - DOMAIN-SUFFIX,openwrt.org
+  - DOMAIN,okex
