@@ -1,4 +1,4 @@
 # ADD-DIRECT
 payload:
   - DOMAIN,nf.video
-  - DOMAIN,speech
+  - DOMAIN,speech.platform.bing.com
