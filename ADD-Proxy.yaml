@@ -1,5 +1,6 @@
 # MyList
 payload:
 # 欧易
-  - DOMAIN,okx
-  - DOMAIN,okex
+  - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,oklink.com
+  - DOMAIN-SUFFIX,okx.com
