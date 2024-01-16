@@ -1,6 +1,6 @@
 # ADD-DIRECT
 payload:
   - DOMAIN-SUFFIX,nf.video
-  - DOMAIN-KEYWORD,ooklaserver
+  - DOMAIN-SUFFIX,hosts.ooklaserver.net
   - DOMAIN-KEYWORD,speedtes
   - DOMAIN-KEYWORD,speedtest
