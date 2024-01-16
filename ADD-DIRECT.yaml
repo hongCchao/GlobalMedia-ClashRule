@@ -1,7 +1,8 @@
 # ADD-DIRECT
 payload:
   - DOMAIN-SUFFIX,nf.video
-#  - DOMAIN-SUFFIX,hosts.ooklaserver.net
-#  - DOMAIN-KEYWORD,speedtes
-#  - DOMAIN-KEYWORD,speedtest
-#  - DOMAIN,speech.platform.bing.com
+  - DOMAIN-SUFFIX,todesk.com
+  - DOMAIN,speech.platform.bing.com
+  - DOMAIN-KEYWORD,ooklaserver
+  - DOMAIN-KEYWORD,speedtes
+  - DOMAIN-KEYWORD,speedtest
