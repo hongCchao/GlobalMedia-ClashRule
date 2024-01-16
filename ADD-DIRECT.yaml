@@ -1,3 +1,5 @@
 # ADD-DIRECT
 payload:
   - DOMAIN-SUFFIX,nf.video
+  - DOMAIN-KEYWORD,speedtes
+  - DOMAIN-KEYWORD,speedtest
