@@ -1,7 +1,6 @@
 # MyList
 payload:
 # 欧易
-  - DOMAIN-SUFFIX,okex.com
-  - DOMAIN-SUFFIX,oklink.com
-  - DOMAIN-SUFFIX,okx.com
-  - DOMAIN,wspri.okx.com.cdn.cloudflare.net
+  - DOMAIN-KEYWORD,okex
+  - DOMAIN-KEYWORD,oklink
+  - DOMAIN-KEYWORD,okx
