@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,hosts.ooklaserver.net
   - DOMAIN-KEYWORD,speedtes
   - DOMAIN-KEYWORD,speedtest
+  - DOMAIN,speech.platform.bing.com
