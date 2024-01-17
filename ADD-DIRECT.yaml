@@ -2,7 +2,7 @@
 payload:
   - DOMAIN-SUFFIX,nf.video
   - DOMAIN-SUFFIX,todesk.com
-  - DOMAIN,speech.platform.bing.com
+  - DOMAIN,speech
   - DOMAIN-KEYWORD,ooklaserver
   - DOMAIN-KEYWORD,speedtes
   - DOMAIN-KEYWORD,speedtest
