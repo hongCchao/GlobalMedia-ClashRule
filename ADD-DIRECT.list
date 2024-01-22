@@ -1,0 +1,9 @@
+# ADD-DIRECT
+payload:
+DOMAIN-SUFFIX,nf.video
+DOMAIN-SUFFIX,todesk.com
+DOMAIN,speech
+DOMAIN,platform
+DOMAIN-KEYWORD,ooklaserver
+DOMAIN-KEYWORD,speedtes
+DOMAIN-KEYWORD,speedtest
