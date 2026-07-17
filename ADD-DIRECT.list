@@ -3,6 +3,8 @@ payload:
 DOMAIN,cloudflare,DIRECT
 DOMAIN-SUFFIX,zconnect.cn,DIRECT
 DOMAIN-SUFFIX,nf.video
+DOMAIN,ptchdbits.co
+DOMAIN,hdhome.org
 DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,topemby.com
 DOMAIN-SUFFIX,bestemby.com
